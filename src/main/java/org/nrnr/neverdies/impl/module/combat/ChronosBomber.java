@@ -1,0 +1,1 @@
+//inside of AutoMineModule.kava
