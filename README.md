@@ -1,7 +1,9 @@
 # neverdies leak
-no idea if its clean or not. dont ask me bro
+its not very clean
 
-if they say they changed or moved base its not true
+it checks the auth filss and sends some computer information to their api to check if "hwid" is matching or not and sends it do a discord webhook.
+
+if they say they changed or moved base its not true.
 
 <br>
 ![image](https://github.com/user-attachments/assets/4112eb95-9c9e-4e89-8af5-5c3f33adfd17)
