@@ -1,5 +1,5 @@
 # neverdies leak
-its not very clean
+Sketchy don't run this but skid if you want kids.
 
 it checks the auth filss and sends some computer information to their api to check if "hwid" is matching or not and sends it do a discord webhook.
 
